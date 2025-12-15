@@ -19,7 +19,7 @@
   display: grid;
   grid-template-rows: 1fr min-content 1fr;
   grid-template-columns: 1fr;
-  position: relative; 
+  position: relative;
   align-items: center;
   padding: var(--decoration-gap) 0;
 }
